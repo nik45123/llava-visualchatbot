@@ -1,4 +1,5 @@
 # llava-visualchatbot
+#### Using Opne AI Whisper To take voice input as well as generate voice output
 
 ![WhatsApp Image 2024-04-22 at 5 02 41 PM](https://github.com/nik45123/llava-visualchatbot/assets/45353017/c341c485-bac6-4b21-b80d-d07ea6285c38)
 
